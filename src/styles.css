@@ -1,4 +1,13 @@
-.container {
+main {
   background: #cbd2f1;
   height: 100vh;
+}
+
+#um {
+	border: 1px solid red;
+	margin-bottom: 10px;
+}
+
+#dois {
+	border: 1px solid green;
 }

@@ -3,10 +3,15 @@ import "./styles.css";
 
 function App() {
   return (
-    <div className="container">
+    <main>
+    <section id="um">
       <h1> helo world!</h1>
       <BsFillAirplaneEnginesFill size={25} color="#000" />
-    </div>
+      </section>
+      <section id="dois">
+      <h2>section2</h2>
+      </section>
+    </main>
   );
 }
 
