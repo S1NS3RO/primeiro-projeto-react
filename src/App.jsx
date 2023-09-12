@@ -6,7 +6,7 @@ function App() {
     <main>
     <section id="um">
       <h1> helo world!</h1>
-      <BsFillAirplaneEnginesFill size={25} color="#000" />
+      <BsFillAirplaneEnginesFill size={55} color="#000" />
       </section>
       <section id="dois">
       <h2>section2</h2>
